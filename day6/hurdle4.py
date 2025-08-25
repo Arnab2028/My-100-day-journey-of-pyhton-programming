@@ -1,6 +1,6 @@
 #---Hurdle-race4---#
 #---game link:- https://www.reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%204&url=worlds%2Ftutorial_en%2Fhurdle4.json
-#---visit the page and copy-paste the following code---#
+#---visit the Reeborg's World page and copy-paste the following code---#
 
 def turn_right():
     turn_left()
